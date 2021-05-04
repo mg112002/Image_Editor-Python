@@ -8,4 +8,4 @@
 # To convert your python file into .exe "pip install cx_freeze".
 # Then run the command "python setup.py build"in the terminal of your ide.
 # A build folder containing your executable file will be created.
-# Creator ------------------ MANGALAM GUPTA ------------------
+# Creator --------------- MANGALAM GUPTA ----------------
