@@ -1,5 +1,6 @@
 # Image_Editor-Python
 # The main.py file contains the code of the editor.
+# Editor.ico is the icon of the image editor.
 # The file setup.py is to convert your python file to executable.
 # The editor uses PILLOW for editing your images.
 # There are different options available for editing in the effects sections.
