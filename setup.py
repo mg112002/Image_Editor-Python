@@ -14,4 +14,4 @@ setup(  name = "Image Editor",
         version = "0.1",
         description = "Image Editor",
         options = {"build_exe": build_exe_options},
-        executables = [Executable("myeditor_V-3.0.py", base=base)])
+        executables = [Executable("main.py", base=base)])
